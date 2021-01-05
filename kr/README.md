@@ -69,7 +69,7 @@ Copyright 2002, 2003, 2016 Robert L. Read
         - [How to Manage Third-Party Software Risks](en/2-Intermediate/Team-Skills/02-How-to-Manage-Third-Party-Software-Risks.md)
         - [How to Manage Consultants](en/2-Intermediate/Team-Skills/03-How-to-Manage-Consultants.md)
         - [How to Communicate the Right Amount](en/2-Intermediate/Team-Skills/04-How-to-Communicate-the-Right-Amount.md)
-        - [How to Disagree Honestly and Get Away with It](en/2-Intermediate/Team-Skills/05-How-to-Disagree-Honestly-and-Get-Away-with-It.md)
+        - [솔직하게 반대하고 그것으로부터 벗어나는 법](ko/2-Intermediate/Team-Skills/05-How-to-Disagree-Honestly-and-Get-Away-with-It.md)
     - 판단내리기 Judgment
         - [How to Tradeoff Quality Against Development Time](en/2-Intermediate/Judgment/01-How-to-Tradeoff-Quality-Against-Development-Time.md)
         - [How to Manage Software System Dependence](en/2-Intermediate/Judgment/02-How-to-Manage-Software-System-Dependence.md)
